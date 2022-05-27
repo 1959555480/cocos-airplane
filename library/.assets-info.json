@@ -1,0 +1,162 @@
+{
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture.meta": {
+    "time": 1653645555676.6436
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\bg01.png.meta": {
+    "time": 1653645555761.4224
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\bg02.png.meta": {
+    "time": 1653645555759.4246
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightBoxBlood02a.png.meta": {
+    "time": 1653645555742.466
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightBoxBlood02b.png.meta": {
+    "time": 1653645555763.4104
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightBoxScore.png.meta": {
+    "time": 1653645555792.3386
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightBtn01.png.meta": {
+    "time": 1653645555847.1863
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightBtn02.png.meta": {
+    "time": 1653645555896.0564
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightIconGold.png.meta": {
+    "time": 1653645555876.1091
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\logo.png.meta": {
+    "time": 1653645555905.0388
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture": {
+    "time": 1653645555675.6445,
+    "uuid": "fa3a6781-e62e-4f73-b7af-56e282d8f132",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightBoxBlood02a.png": {
+    "time": 1653554093929.8948,
+    "uuid": "12c1244b-b080-4751-bc18-c125914d2d0d",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\bg02.png": {
+    "time": 1653554093929.8948,
+    "uuid": "2b818a60-4390-4cce-9dcd-4b280718b78f",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\bg01.png": {
+    "time": 1653554093924.9087,
+    "uuid": "6561f5f8-2821-4657-abad-b730be88817f",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightBoxBlood02b.png": {
+    "time": 1653554093930.8926,
+    "uuid": "aef977e3-d7b2-43d2-938c-835d5cc2c9db",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightBoxScore.png": {
+    "time": 1653554093930.8926,
+    "uuid": "33ccb4c0-24d6-4f13-bc9a-f65418902935",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightBtn01.png": {
+    "time": 1653554093930.8926,
+    "uuid": "bf8757e4-563d-4672-af96-afed11a5d929",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightIconGold.png": {
+    "time": 1653554093931.8896,
+    "uuid": "9de59569-e302-470b-b1a6-4acf0112b3bb",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\fightBtn02.png": {
+    "time": 1653554093931.8896,
+    "uuid": "4ad16f10-49dd-48ee-8817-84d9a464904d",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\texture\\logo.png": {
+    "time": 1653554093931.8896,
+    "uuid": "aeb0d951-701d-4ec6-836c-03b6ec1efcf0",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\scene.meta": {
+    "time": 1653645998799.3643
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\scene\\airplane.scene.meta": {
+    "time": 1653645998829.288
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\scene": {
+    "time": 1653645998793.3923,
+    "uuid": "e1f9f24d-be29-4c47-8115-b2030454363c",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\scene\\airplane.scene": {
+    "time": 1653648072551.274,
+    "uuid": "74be0c90-5751-4e67-9595-19f192560416",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\background.meta": {
+    "time": 1653645637507.761
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\background": {
+    "time": 1653645660612.5513,
+    "uuid": "16445f15-f6dd-46c2-8576-9325c3338d42",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\background\\bg.mtl.meta": {
+    "time": 1653645660618.477
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\background\\bg.mtl": {
+    "time": 1653645699768.372,
+    "uuid": "b34725fd-6f3a-4344-b20c-d477d5b35d76",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\script.meta": {
+    "time": 1653646081355.4414
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\script": {
+    "time": 1653646252777.9763,
+    "uuid": "2fa439a1-e7a6-4e78-bff0-a6fe783da313",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\script\\GameManager.ts.meta": {
+    "time": 1653646116407.902
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\script\\GameManager.ts": {
+    "time": 1653646116396.932,
+    "uuid": "eee3cca5-82bc-420f-a1da-a55d8dd4e4af",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\script\\MoveSceneBg.ts.meta": {
+    "time": 1653646252790.9421
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\script\\MoveSceneBg.ts": {
+    "time": 1653647158420.3452,
+    "uuid": "b14877d7-36ee-490f-8468-0021c9a621ed",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\model.meta": {
+    "time": 1653647328177.834
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\model": {
+    "time": 1653647990355.6619,
+    "uuid": "e09a9aaf-24ee-451f-8fa0-5634c2c518a2",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\model\\plane01.jpg.meta": {
+    "time": 1653647354676.4055
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\model\\plane01.jpg": {
+    "time": 1653554093883.0205,
+    "uuid": "6f08f8fc-cb7e-4db2-a9e7-79a5fac96095",
+    "missing": false
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\model\\plane01.FBX.meta": {
+    "time": 1653647851034.8638
+  },
+  "D:\\yyx\\cocos-airplane\\AirPlane\\assets\\model\\plane01.FBX": {
+    "time": 1653554093879.0317,
+    "uuid": "e2a56441-748b-4a76-a105-552ea8dd1404",
+    "missing": false
+  }
+}

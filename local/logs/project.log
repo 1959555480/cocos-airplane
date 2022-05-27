@@ -1,0 +1,73 @@
+2022-05-27T09:57:44.100Z - log: [Package] menu@1.0.0 enable
+2022-05-27T09:57:44.105Z - log: [Package] profile@1.0.0 enable
+2022-05-27T09:57:44.137Z - log: [Package] project@1.0.2 enable
+2022-05-27T09:57:44.153Z - log: [Package] messages@1.0.0 enable
+2022-05-27T09:57:44.166Z - log: [Package] program@1.0.0 enable
+2022-05-27T09:57:44.180Z - log: [Package] tester@1.0.0 enable
+2022-05-27T09:57:44.196Z - log: [Package] preferences@1.0.0 enable
+2022-05-27T09:57:45.700Z - log: Setup mods mgr.: 860.89ms
+2022-05-27T09:57:45.721Z - verbose: [Engine] QuickCompile engine (1398ms)
+2022-05-27T09:57:45.725Z - log: [Package] engine@1.0.6 enable
+2022-05-27T09:57:47.042Z - log: [Package] programming@1.0.0 enable
+2022-05-27T09:57:47.487Z - log: [Package] device@1.0.1 enable
+2022-05-27T09:57:47.522Z - log: [Package] ui-kit@1.0.1 enable
+2022-05-27T09:57:47.551Z - log: [Package] engine-extends@1.0.0 enable
+2022-05-27T09:57:47.644Z - log: [Package] asset-db@1.0.0 enable
+2022-05-27T09:57:47.713Z - log: [Package] scene@1.0.0 enable
+2022-05-27T09:57:48.059Z - log: [Package] server@1.0.0 enable
+2022-05-27T09:57:48.210Z - log: [Package] utils@1.0.0 enable
+2022-05-27T09:57:53.988Z - log: [Package] preview@1.0.1 enable
+2022-05-27T09:57:54.062Z - log: [Package] animator@1.0.0 enable
+2022-05-27T09:57:55.648Z - log: Profile changed: builder (log.level: 4)
+2022-05-27T09:57:55.675Z - log: [Package] builder@1.3.2 enable
+2022-05-27T09:57:55.715Z - log: [Package] shortcuts@1.0.1 enable
+2022-05-27T09:57:55.763Z - log: [Package] animation-graph@1.0.0 enable
+2022-05-27T09:57:55.793Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-05-27T09:57:55.818Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-05-27T09:57:55.869Z - log: [Package] about@1.0.0 enable
+2022-05-27T09:57:55.930Z - log: [Package] assets@1.0.0 enable
+2022-05-27T09:57:55.980Z - log: [Package] console@1.0.0 enable
+2022-05-27T09:57:56.333Z - log: [Package] extension@3.0.16 enable
+2022-05-27T09:57:56.376Z - log: [Package] hierarchy@1.0.0 enable
+2022-05-27T09:57:56.428Z - log: [Package] inspector@1.0.0 enable
+2022-05-27T09:57:56.475Z - log: [Package] lightmap@1.0.4 enable
+2022-05-27T09:57:56.546Z - log: [Package] node-library@1.0.1 enable
+2022-05-27T09:57:56.578Z - log: [Package] package-asset@1.0.0 enable
+2022-05-27T09:57:56.621Z - log: [Package] process@1.0.0 enable
+2022-05-27T09:57:56.660Z - log: [Package] reference-image@1.0.0 enable
+2022-05-27T09:57:56.682Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-05-27T09:57:56.714Z - log: [Package] android@1.0.0 enable
+2022-05-27T09:57:56.745Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-05-27T09:57:56.770Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-05-27T09:57:56.804Z - log: [Package] cocos-play@1.0.0 enable
+2022-05-27T09:57:56.835Z - log: [Package] huawei-agc@1.0.0 enable
+2022-05-27T09:57:56.866Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-05-27T09:57:56.909Z - log: [Package] ios@1.0.0 enable
+2022-05-27T09:57:56.934Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-05-27T09:57:56.962Z - log: [Package] link-sure@1.0.0 enable
+2022-05-27T09:57:56.996Z - log: [Package] linux@1.0.0 enable
+2022-05-27T09:57:57.024Z - log: [Package] mac@1.0.0 enable
+2022-05-27T09:57:57.262Z - log: [Package] native@1.0.0 enable
+2022-05-27T09:57:57.293Z - log: [Package] ohos@1.0.0 enable
+2022-05-27T09:57:57.320Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-05-27T09:57:57.347Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-05-27T09:57:57.377Z - log: [Package] qtt@1.0.0 enable
+2022-05-27T09:57:57.404Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-05-27T09:57:57.456Z - log: [Package] web-desktop@1.0.0 enable
+2022-05-27T09:57:57.521Z - log: [Package] web-mobile@1.0.0 enable
+2022-05-27T09:57:57.567Z - log: [Package] wechatgame@1.0.1 enable
+2022-05-27T09:57:57.593Z - log: [Package] windows@1.0.0 enable
+2022-05-27T09:57:57.618Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-05-27T09:57:58.087Z - log: [Package] cocos-service@3.0.3 enable
+2022-05-27T09:57:58.135Z - log: [Package] importer@1.0.0 enable
+2022-05-27T09:57:58.643Z - log: [Im-plugin] Check im-plugin version.
+2022-05-27T09:57:58.661Z - log: [Package] im-plugin@3.0.8 enable
+2022-05-27T09:57:59.491Z - log: [Im-plugin] No online info of im-plugin.
+2022-05-27T09:58:01.102Z - verbose: [AssetDB] Require engine code (5841ms)
+2022-05-27T09:58:26.731Z - verbose: [Scene] Require engine code (1ms)
+2022-05-27T09:58:26.734Z - verbose: [Scene] Startup engine (2ms)
+2022-05-27T09:58:26.842Z - log: [Scene] Cocos Creator v3.5.0
+2022-05-27T09:58:27.780Z - verbose: [Scene] Open engine (1046ms)
+2022-05-27T09:58:27.781Z - verbose: [Scene] Configure engine (0ms)
+2022-05-27T09:58:27.080Z - info: [Scene] Forward render pipeline initialized.
+2022-05-27T10:41:14.884Z - warn: Metrics: no valid info
