@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 28082.09499999974,
+      "mTimestamp": 20482.96980000008,
       "chunkId": "06905a76530cf57ee019d9d8bcfb507c2d037fd3",
       "imports": [
         {
@@ -493,11 +493,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 1696750.8139999993,
+      "mTimestamp": 20531.058699999936,
       "chunkId": "6324fd7f2a6a90bef45040fcb7ce34af0ba6a7d3",
       "imports": [
         {
-          "value": "file:///D:/yyx/cocos-airplane/AirPlane/assets/script/GameManager.ts",
+          "value": "file:///D:/yyx/cocos-airplane/assets/script/GameManager.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -506,21 +506,21 @@
             },
             "end": {
               "line": 5,
-              "column": 104
+              "column": 95
             }
           }
         },
         {
-          "value": "file:///D:/yyx/cocos-airplane/AirPlane/assets/script/MoveSceneBg.ts",
+          "value": "file:///D:/yyx/cocos-airplane/assets/script/MoveSceneBg.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
               "line": 5,
-              "column": 120
+              "column": 111
             },
             "end": {
               "line": 5,
-              "column": 189
+              "column": 171
             }
           }
         }
@@ -530,14 +530,14 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/yyx/cocos-airplane/AirPlane/assets/script/GameManager.ts"
+            "url": "file:///D:/yyx/cocos-airplane/assets/script/GameManager.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/yyx/cocos-airplane/AirPlane/assets/script/MoveSceneBg.ts"
+            "url": "file:///D:/yyx/cocos-airplane/assets/script/MoveSceneBg.ts"
           },
           "messages": []
         }
@@ -591,6 +591,90 @@
         "uuid": "b14877d7-36ee-490f-8468-0021c9a621ed"
       },
       "chunkId": "370ad9ea4f14056b62f9be6567fc9ad6e0b7a633",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/yyx/cocos-airplane/assets/script/GameManager.ts": {
+      "mTimestamp": {
+        "mtime": 1653843888828.6843,
+        "uuid": "eee3cca5-82bc-420f-a1da-a55d8dd4e4af"
+      },
+      "chunkId": "328cdcf3c2b87d4e7b315d4a3bfb1f87184d1d60",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/yyx/cocos-airplane/assets/script/MoveSceneBg.ts": {
+      "mTimestamp": {
+        "mtime": 1653843888830.7085,
+        "uuid": "b14877d7-36ee-490f-8468-0021c9a621ed"
+      },
+      "chunkId": "31a3f728396794c734a5c9ac860c131de28920dc",
       "imports": [
         {
           "value": "cc"
