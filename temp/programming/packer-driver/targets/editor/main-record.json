@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 20482.96980000008,
+      "mTimestamp": 13145.610600000015,
       "chunkId": "06905a76530cf57ee019d9d8bcfb507c2d037fd3",
       "imports": [
         {
@@ -493,11 +493,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 20531.058699999936,
-      "chunkId": "6324fd7f2a6a90bef45040fcb7ce34af0ba6a7d3",
+      "mTimestamp": 31939399.740599997,
+      "chunkId": "7c5545d0f1257a8181a07a5db294710fcae0d363",
       "imports": [
         {
-          "value": "file:///D:/yyx/cocos-airplane/assets/script/GameManager.ts",
+          "value": "file:///D:/yyx/cocos-airplane/assets/script/MoveSceneBg.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -511,7 +511,7 @@
           }
         },
         {
-          "value": "file:///D:/yyx/cocos-airplane/assets/script/MoveSceneBg.ts",
+          "value": "file:///D:/yyx/cocos-airplane/assets/script/bullet/Bullet.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -520,7 +520,49 @@
             },
             "end": {
               "line": 5,
-              "column": 171
+              "column": 173
+            }
+          }
+        },
+        {
+          "value": "file:///D:/yyx/cocos-airplane/assets/script/framework/GameManager.ts",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 189
+            },
+            "end": {
+              "line": 5,
+              "column": 259
+            }
+          }
+        },
+        {
+          "value": "file:///D:/yyx/cocos-airplane/assets/script/plane/SelfPlane.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 275
+            },
+            "end": {
+              "line": 5,
+              "column": 339
+            }
+          }
+        },
+        {
+          "value": "file:///D:/yyx/cocos-airplane/assets/script/ui/uiMain.ts",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 355
+            },
+            "end": {
+              "line": 5,
+              "column": 413
             }
           }
         }
@@ -530,14 +572,35 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/yyx/cocos-airplane/assets/script/GameManager.ts"
+            "url": "file:///D:/yyx/cocos-airplane/assets/script/MoveSceneBg.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/yyx/cocos-airplane/assets/script/MoveSceneBg.ts"
+            "url": "file:///D:/yyx/cocos-airplane/assets/script/bullet/Bullet.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/yyx/cocos-airplane/assets/script/framework/GameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/yyx/cocos-airplane/assets/script/plane/SelfPlane.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/yyx/cocos-airplane/assets/script/ui/uiMain.ts"
           },
           "messages": []
         }
@@ -629,7 +692,7 @@
     },
     "file:///D:/yyx/cocos-airplane/assets/script/GameManager.ts": {
       "mTimestamp": {
-        "mtime": 1653843888828.6843,
+        "mtime": 1653646116396.932,
         "uuid": "eee3cca5-82bc-420f-a1da-a55d8dd4e4af"
       },
       "chunkId": "328cdcf3c2b87d4e7b315d4a3bfb1f87184d1d60",
@@ -671,7 +734,7 @@
     },
     "file:///D:/yyx/cocos-airplane/assets/script/MoveSceneBg.ts": {
       "mTimestamp": {
-        "mtime": 1653843888830.7085,
+        "mtime": 1653647158420.3452,
         "uuid": "b14877d7-36ee-490f-8468-0021c9a621ed"
       },
       "chunkId": "31a3f728396794c734a5c9ac860c131de28920dc",
@@ -710,6 +773,339 @@
           "messages": []
         }
       ]
+    },
+    "file:///D:/yyx/cocos-airplane/assets/script/SelfPlane.ts": {
+      "mTimestamp": {
+        "mtime": 1653899545074.9167,
+        "uuid": "6fa89b70-1227-4988-aee3-891d9f432dad"
+      },
+      "chunkId": "a32ac46aa9f6a884feaecc18815f7e3c642251fb",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 83
+            },
+            "end": {
+              "line": 1,
+              "column": 87
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/yyx/cocos-airplane/assets/script/ui/MoveSceneBg.ts": {
+      "mTimestamp": {
+        "mtime": 1653647158420.3452,
+        "uuid": "b14877d7-36ee-490f-8468-0021c9a621ed"
+      },
+      "chunkId": "f5ede2d099e3ed8ca3e9e7404c05812626f7ea4f",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/yyx/cocos-airplane/assets/script/plane/SelfPlane.ts": {
+      "mTimestamp": {
+        "mtime": 1653900250263.7202,
+        "uuid": "220f536d-d5ed-4aa3-8fc5-30031f68dd70"
+      },
+      "chunkId": "787349ce002d81029281894358316deb5c2708fb",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 83
+            },
+            "end": {
+              "line": 1,
+              "column": 87
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/yyx/cocos-airplane/assets/script/bullet/Bullet.ts": {
+      "mTimestamp": {
+        "mtime": 1653906302761.1418,
+        "uuid": "c2999952-1a5d-4440-b45d-2e2debd1512e"
+      },
+      "chunkId": "685103f3e04d69fd0077a968a4b30fb08f728835",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/yyx/cocos-airplane/assets/script/framework/GameManager.ts": {
+      "mTimestamp": {
+        "mtime": 1653906954174.8108,
+        "uuid": "eee3cca5-82bc-420f-a1da-a55d8dd4e4af"
+      },
+      "chunkId": "d42f028cea3cca81f6042627ca1c833f3d129ac0",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 65
+            },
+            "end": {
+              "line": 1,
+              "column": 69
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/yyx/cocos-airplane/assets/script/ui/SelfPlane.ts": {
+      "mTimestamp": {
+        "mtime": 1653893263417.1675,
+        "uuid": "c6f0ab23-c152-44ce-a961-e7a8200709a3"
+      },
+      "chunkId": "3e9863200c2ee43f8d6ba6564693b8a48f33be9a",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 83
+            },
+            "end": {
+              "line": 1,
+              "column": 87
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/yyx/cocos-airplane/assets/script/ui/uiMain.ts": {
+      "mTimestamp": {
+        "mtime": 1653905373445.7969,
+        "uuid": "c6f0ab23-c152-44ce-a961-e7a8200709a3"
+      },
+      "chunkId": "707a9183e19c27ed62f03251b4c7ceb3c6317f97",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 83
+            },
+            "end": {
+              "line": 1,
+              "column": 87
+            }
+          }
+        },
+        {
+          "value": "../framework/GameManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 28
+            },
+            "end": {
+              "line": 2,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/yyx/cocos-airplane/assets/script/framework/GameManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1653875015566,
+      "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
     }
   }
 }
