@@ -1,5 +1,53 @@
 {
   "chunks": {
+    "aeac66ac73cdadc38bbf575dfa50c73c7483b0d8": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "06905a76530cf57ee019d9d8bcfb507c2d037fd3"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1653646116601
+    },
+    "370ad9ea4f14056b62f9be6567fc9ad6e0b7a633": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "06905a76530cf57ee019d9d8bcfb507c2d037fd3"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1653647164325
+    },
+    "328cdcf3c2b87d4e7b315d4a3bfb1f87184d1d60": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "06905a76530cf57ee019d9d8bcfb507c2d037fd3"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1653648264468
+    },
+    "31a3f728396794c734a5c9ac860c131de28920dc": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "06905a76530cf57ee019d9d8bcfb507c2d037fd3"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1653648264751
+    },
     "06905a76530cf57ee019d9d8bcfb507c2d037fd3": {
       "imports": {
         "__unresolved_0": {
@@ -164,9 +212,9 @@
           "messages": []
         }
       },
-      "timestamp": 1653645494169
+      "timestamp": 1653875028861
     },
-    "aeac66ac73cdadc38bbf575dfa50c73c7483b0d8": {
+    "f5ede2d099e3ed8ca3e9e7404c05812626f7ea4f": {
       "imports": {
         "cc": {
           "resolved": {
@@ -176,28 +224,75 @@
           "messages": []
         }
       },
-      "timestamp": 1653646116601
+      "timestamp": 1653893323874
     },
-    "6324fd7f2a6a90bef45040fcb7ce34af0ba6a7d3": {
+    "3e9863200c2ee43f8d6ba6564693b8a48f33be9a": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "06905a76530cf57ee019d9d8bcfb507c2d037fd3"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1653895341145
+    },
+    "84741ad843cea9a440c5d8c2d379669b6551400d": {
+      "imports": {},
+      "timestamp": 1653897368868
+    },
+    "a32ac46aa9f6a884feaecc18815f7e3c642251fb": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "06905a76530cf57ee019d9d8bcfb507c2d037fd3"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1653899555372
+    },
+    "787349ce002d81029281894358316deb5c2708fb": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "06905a76530cf57ee019d9d8bcfb507c2d037fd3"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1653900260060
+    },
+    "707a9183e19c27ed62f03251b4c7ceb3c6317f97": {
       "imports": {
         "__unresolved_0": {
           "resolved": {
             "type": "chunk",
-            "id": "aeac66ac73cdadc38bbf575dfa50c73c7483b0d8"
+            "id": "84741ad843cea9a440c5d8c2d379669b6551400d"
           },
           "messages": []
         },
         "__unresolved_1": {
           "resolved": {
             "type": "chunk",
-            "id": "370ad9ea4f14056b62f9be6567fc9ad6e0b7a633"
+            "id": "d42f028cea3cca81f6042627ca1c833f3d129ac0"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "06905a76530cf57ee019d9d8bcfb507c2d037fd3"
           },
           "messages": []
         }
       },
-      "timestamp": 1653647163239
+      "timestamp": 1653905376198
     },
-    "370ad9ea4f14056b62f9be6567fc9ad6e0b7a633": {
+    "685103f3e04d69fd0077a968a4b30fb08f728835": {
       "imports": {
         "cc": {
           "resolved": {
@@ -207,13 +302,68 @@
           "messages": []
         }
       },
-      "timestamp": 1653647164325
+      "timestamp": 1653906306965
+    },
+    "7c5545d0f1257a8181a07a5db294710fcae0d363": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "31a3f728396794c734a5c9ac860c131de28920dc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "685103f3e04d69fd0077a968a4b30fb08f728835"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d42f028cea3cca81f6042627ca1c833f3d129ac0"
+          },
+          "messages": []
+        },
+        "__unresolved_3": {
+          "resolved": {
+            "type": "chunk",
+            "id": "787349ce002d81029281894358316deb5c2708fb"
+          },
+          "messages": []
+        },
+        "__unresolved_4": {
+          "resolved": {
+            "type": "chunk",
+            "id": "707a9183e19c27ed62f03251b4c7ceb3c6317f97"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1653906954922
+    },
+    "d42f028cea3cca81f6042627ca1c833f3d129ac0": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "06905a76530cf57ee019d9d8bcfb507c2d037fd3"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1653906954969
     }
   },
   "entries": {
     "cce:/internal/x/cc": "06905a76530cf57ee019d9d8bcfb507c2d037fd3",
-    "cce:/internal/x/prerequisite-imports": "6324fd7f2a6a90bef45040fcb7ce34af0ba6a7d3",
-    "file:///D:/yyx/cocos-airplane/AirPlane/assets/script/GameManager.ts": "aeac66ac73cdadc38bbf575dfa50c73c7483b0d8",
-    "file:///D:/yyx/cocos-airplane/AirPlane/assets/script/MoveSceneBg.ts": "370ad9ea4f14056b62f9be6567fc9ad6e0b7a633"
+    "cce:/internal/x/prerequisite-imports": "7c5545d0f1257a8181a07a5db294710fcae0d363",
+    "file:///D:/yyx/cocos-airplane/assets/script/MoveSceneBg.ts": "31a3f728396794c734a5c9ac860c131de28920dc",
+    "file:///D:/yyx/cocos-airplane/assets/script/plane/SelfPlane.ts": "787349ce002d81029281894358316deb5c2708fb",
+    "file:///D:/yyx/cocos-airplane/assets/script/ui/uiMain.ts": "707a9183e19c27ed62f03251b4c7ceb3c6317f97",
+    "file:///D:/yyx/cocos-airplane/assets/script/bullet/Bullet.ts": "685103f3e04d69fd0077a968a4b30fb08f728835",
+    "file:///D:/yyx/cocos-airplane/assets/script/framework/GameManager.ts": "d42f028cea3cca81f6042627ca1c833f3d129ac0"
   }
 }
